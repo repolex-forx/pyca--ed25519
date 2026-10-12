@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pyca/ed25519/commit/bc01a714d2cbeec676991192c7beb01b2e072100",
       "git:hexsha": "bc01a714d2cbeec676991192c7beb01b2e072100",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T03:10:38.980246+00:00"
     }
   ]
 }
